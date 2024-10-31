@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MakeTelegramIDwebsite/static/css/main.07fc6933.css",
+    "main.js": "/MakeTelegramIDwebsite/static/js/main.41a319f3.js",
+    "static/media/IRANSansWeb(FaNum).eot": "/MakeTelegramIDwebsite/static/media/IRANSansWeb(FaNum).96c836c332e8f8d83979.eot",
+    "static/media/IRANSansWeb(FaNum).ttf": "/MakeTelegramIDwebsite/static/media/IRANSansWeb(FaNum).cfda181b49ac22fb9f4a.ttf",
+    "static/media/IRANSansWeb(FaNum).woff": "/MakeTelegramIDwebsite/static/media/IRANSansWeb(FaNum).4f3bc2683ce6d8e34dd7.woff",
+    "static/media/IRANSansWeb(FaNum).woff2": "/MakeTelegramIDwebsite/static/media/IRANSansWeb(FaNum).4c7ce8a145e6fc70c711.woff2",
+    "index.html": "/MakeTelegramIDwebsite/index.html",
+    "main.07fc6933.css.map": "/MakeTelegramIDwebsite/static/css/main.07fc6933.css.map",
+    "main.41a319f3.js.map": "/MakeTelegramIDwebsite/static/js/main.41a319f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07fc6933.css",
+    "static/js/main.41a319f3.js"
+  ]
+}
