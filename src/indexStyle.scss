@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    direction: rtl;
+    scroll-behavior: smooth;
+}
+
+@font-face {
+    font-family: "iranSans";
+    src: url("./Assets/Fonts/IRANSansWeb(FaNum).ttf") format("ttf"),
+      url("./Assets/Fonts/IRANSansWeb(FaNum).woff") format("woff"),
+      url("./Assets/Fonts/IRANSansWeb(FaNum).woff2") format("woff2"),
+      url("./Assets/Fonts/IRANSansWeb(FaNum).eot") format("eot");
+}
+
+:root{
+    --PersianFont: iranSans;
+}
